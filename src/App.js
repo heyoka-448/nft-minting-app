@@ -102,21 +102,21 @@ function App() {
   const [feedback, setFeedback] = useState(`Click buy to mint your NFT.`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
-    CONTRACT_ADDRESS: "",
-    SCAN_LINK: "",
+    CONTRACT_ADDRESS: "0xf175F93EC2e6Be07Cb220C0BE02bB4dDE8F959CD",
+    SCAN_LINK: "https://explorer.cscscan.io/address/0xf175F93EC2e6Be07Cb220C0BE02bB4dDE8F959CD",
     NETWORK: {
-      NAME: "",
-      SYMBOL: "",
-      ID: 0,
+      NAME: "Credit Smart Chain",
+      SYMBOL: "CREDIT",
+      ID: 13308,
     },
-    NFT_NAME: "",
-    SYMBOL: "",
-    MAX_SUPPLY: 1,
-    WEI_COST: 0,
-    DISPLAY_COST: 0,
-    GAS_LIMIT: 0,
-    MARKETPLACE: "",
-    MARKETPLACE_LINK: "",
+    NFT_NAME: "Punk Stars",
+    SYMBOL: "STARS",
+    MAX_SUPPLY: 10000,
+    WEI_COST: 100000000000000000000000,
+    DISPLAY_COST: 100,
+    GAS_LIMIT: 285000,
+    MARKETPLACE: "EnefSea",
+    MARKETPLACE_LINK: "https://enefsea.com/collections/punk-stars",
     SHOW_BACKGROUND: false,
   });
 
