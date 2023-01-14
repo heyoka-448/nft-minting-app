@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0xf175F93EC2e6Be07Cb220C0BE02bB4dDE8F959CD",
+  "SCAN_LINK": "https://explorer.cscscan.io/address/0xf175F93EC2e6Be07Cb220C0BE02bB4dDE8F959CD",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Credit Smart Chain",
+    "SYMBOL": "CREDIT",
+    "ID": 13308
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "NFT_NAME": "Punk Stars",
+  "SYMBOL": "STARS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000000000,
+  "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE": "EnefSea",
+  "MARKETPLACE_LINK": "https://enefsea.com/punk-stars",
   "SHOW_BACKGROUND": true
 }
